@@ -1,0 +1,12 @@
+.btn-blue {
+	background-color: rgb(153,200,185);
+	color: white;
+	padding: 15px 40px;
+	border-radius: 4px;
+	font-family: 'Patrick Hand SC', cursive;
+	font-size: 20px;
+}
+.btn-blue:hover {
+	background-color: rgb(200,88,97);
+	color: white;
+}
